@@ -1,31 +1,66 @@
-1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat justo in urna consectetur, 
-quis ullamcorper nulla sodales. Quisque ut semper lorem. Sed lacinia felis ut magna fermentum, nec scelerisque 
-velit condimentum. Ut eget eros ac magna scelerisque lacinia. Nulla facilisi. Vivamus auctor tempus lorem, nec 
-vestibulum quam gravida id. Integer et nibh ac dui rhoncus venenatis id ut ante. Ut ut nisi nec lectus ultrices
-tincidunt eget at arcu. Suspendisse potenti. Fusce non tortor justo. Fusce in tortor lacus. Vestibulum ut luctus 
-ipsum, at mattis odio. Cras ac nisi nulla. Sed sed risus massa.
+Willkommen in der Unterwelt.
+Die Stadt schläft nie. In den schmutzigen Gassen, den glitzernden Hochhäusern und den verruchten Vierteln tobt ein unsichtbarer Krieg. 
+Ein Krieg um Macht, Einfluss und Reichtum. Du und deine Mitspieler betretet die düstere Welt des Drogenhandels, in der nur die Mutigsten überleben.
+Hier ist niemand dein Freund. Jeder Schritt birgt Risiko, jede Entscheidung kann über Leben und Tod entscheiden. Dein Ziel? Die Stadt zu dominieren, Viertel für Viertel.
+Und dabei alle Konkurrenten aus dem Weg zu räumen.
+Ausgestattet mit nichts als einem kleinen Lager, einem Startkapital und deinem ersten Lieferanten, ist es an dir, ein unaufhaltsames Imperium aufzubauen. 
+Doch Vorsicht: Die Polizei lauert hinter jeder Ecke, und ein unüberlegter Schachzug könnte dein Ende bedeuten. 
+Wie weit wirst du gehen, um der größte Drogenboss der Stadt zu werden?
 
-2 Proin faucibus suscipit ligula, at fringilla orci interdum eu. Donec bibendum nisl ut 
-vestibulum rutrum. Ut euismod, orci ac accumsan congue, turpis metus laoreet odio, et accumsan nulla dolor 
-et ex. Donec et mi sit amet quam volutpat ultrices. Mauris eleifend vestibulum est id iaculis. Phasellus 
-condimentum purus ut sapien ultrices ultricies. Phasellus congue, arcu id sollicitudin pellentesque, eros 
-metus convallis lectus, at dapibus metus nulla ut metus. Suspendisse potenti. Vivamus id blandit metus, eu 
-hendrerit nisi. Cras dictum mi sit amet aliquet sollicitudin. Nulla lacinia erat id justo vehicula lobortis. 
-Duis vestibulum ligula non lectus tincidunt, sit amet ultricies justo placerat.
-Fusce sed lorem non purus lacinia ultricies.
 
-3 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
-Ut at elit eget risus auctor fringilla. Vestibulum bibendum purus in est hendrerit, eget varius 
-enim tristique. Morbi ullamcorper pharetra massa, at placerat eros aliquam nec. Fusce bibendum, leo et 
-viverra malesuada, ex dui consectetur metus, nec faucibus risus ante nec nibh. Integer et tellus at eros 
-lobortis tincidunt. Nullam aliquet mi ligula, sed consectetur nisi volutpat et. Nulla rhoncus, ex nec suscipit 
-venenatis, massa eros aliquet justo, vel tempor mi lectus non arcu. Duis fermentum, lorem a aliquam molestie, 
-lorem ex tempus libero, at eleifend quam arcu at arcu. Aenean lacinia semper ex, et rhoncus lacus sagittis ac.
+Die Stadtkarte liegt vor euch. Sie ist in verschiedene Viertel unterteilt, jedes ein potenzieller Goldesel, wenn du es schaffst, die Kontrolle an dich zu reißen. 
+Doch Achtung: Je mehr Macht du gewinnst, desto gefährlicher wird die Konkurrenz – und die Behörden sind dir immer dicht auf den Fersen.
+Zu Beginn wählt jeder Spieler eine Drogenboss-Figur und platziert sie in einem beliebigen Viertel. 
+Dein Smartphone wird zur Schaltzentrale deines Imperiums: Scanne den QR-Code, um dich mit der Online-Welt von *Dealer’s Dilemma* zu verbinden. 
+Die Webseite informiert dich über zufällige Ereignisse, die sich jede Runde ereignen, und zeigt dir deine Einnahmen, die Kundenzahlen in jedem Viertel und die aktuelle Kontrolle über die Stadt.
 
-4 Donec in mauris id arcu vestibulum accumsan a id mauris. Donec fermentum metus eu magna aliquet rhoncus. 
-Integer et dolor a nulla pellentesque auctor. Mauris id odio vel nisi aliquam iaculis vel ut sem. Ut 
-vel est orci. Nullam vel dui vitae sapien faucibus ultricies et vel neque. Aenean tincidunt pharetra tortor 
-vel euismod. Integer semper nisi nec posuere viverra. Sed nec libero eget ligula faucibus gravida nec ac orci. 
-Cras id nibh volutpat, gravida ligula nec, eleifend odio. Fusce pharetra auctor ante. Duis eleifend venenatis 
-eros. Sed semper nisl et arcu dictum, id fringilla diam vehicula. Curabitur mattis hendrerit tempor. Nam lacinia 
-consectetur neque ut efficitur.
+Jeder Spieler startet mit:
+Einer Drogenboss-Figur: in dieser gefährlichen Welt.
+Einem kleinen Sicherheitslager: Dein Hauptquartier – noch klein, aber ausbaufähig.
+Einem Startkapital: Dein erster Geldvorrat, um Lieferanten, Läufer und andere Ressourcen zu kaufen.
+Einem Alkohol-Lieferanten: Dein Einstieg in das Geschäft – geringe Margen, aber ein sicherer Anfang.
+
+Jede Runde kannst du dein Kapital nutzen, um zu wachsen:
+Kaufe neue Lieferanten, die dir stärkere, profitablere Drogen bringen.
+Stelle Läufer ein, um mehr Viertel zu kontrollieren und deine Präsenz zu sichern. Läufer sind zusätzliche Figuren eines Spielers.
+Investiere in Sicherheitslager, um dein wachsendes Imperium auszubauen und zu schützen.
+Ein Sicherheitslager gehört dabei jeweils zu einer Figur und einem Lieferanten, was zu welchem Sicherheitslager gehört kann frei im Spiel verändert werden.
+
+Um ein Viertel zu dominieren, brauchst du Übermacht. Hast du mehr als doppelt so viele Figuren (Läufer oder Drogenbosse) in einem Viertel wie dein stärkster Gegner, 
+übernimmst du die vollständige Kontrolle. Die Figuren deiner Gegner werden gnadenlos entfernt. Doch das hat seinen Preis: Läufer und Drogenbosse, 
+die lange in einem Viertel verweilen, ziehen die Aufmerksamkeit der Polizei auf sich. Je länger du bleibst, desto größer wird dein Kundenstamm 
+und desto höher das Risiko geschnappt zu werden.
+
+Lieferanten sind das Rückgrat deines Imperiums. Jeder Lieferant liefert dir spezifische Drogen mit einzigartigen Reinheiten und Gewinnspannen:
+Geringere Reinheit: günstige Anschaffung, aber geringerer Profit.
+Hochwertige Ware: hoher Gewinn pro Kunde, aber teurer in der Anschaffung.
+Die Webseite informiert dich am Ende jeder Runde, wie viele Kunden in den Vierteln waren und wie viel Profit du gemacht hast. Der Multiplikator des Lieferanten 
+in Kombination mit der Kundenzahl entscheidet über dein Einkommen. Aber Achtung: Wirst du geschnappt, ist der Lieferant verloren, unwiderruflich.
+
+Am Anfang jeder Runde löst die Webseite ein zufälliges Ereignis aus. Diese Ereignisse bringen Chaos und Spannung ins Spiel:
+Polizeipatrouillen: Figuren in einem bestimmten Viertel riskieren Verhaftung.
+Razzien: Lager mit niedriger Sicherheitsstufe und damit auch der dazugehörige Lieferant und Läufer, können beschlagnahmt werden.
+Großereignisse: plötzliche Kundenströme in bestimmten Vierteln, perfekt für schnelle Gewinne.
+Bist du vorbereitet oder wird ein einzelnes Ereignis dein Imperium ins Wanken bringen?
+
+Bestechung und Gewalt
+Einige Probleme lassen sich mit Geld lösen. Bestechungskarten ermöglichen dir, dich aus der Schlinge zu ziehen:
+Wenn du geschnappt wirst, kannst du mit einer Bestechungskarte und einem Würfelwurf frei kommen. 
+Doch die Chance hängt davon ab, wie viel du investierst.
+
+Das große Ziel
+Der Weg zum Sieg führt über die Kontrolle der Stadt. 
+Ziel ist es, eine bestimmte Anzahl von Vierteln zu übernehmen. 
+Diese hängt von der Anzahl der Spieler ab und wird zu Beginn des Spiels festgelegt. Doch Vorsicht: Je mächtiger du wirst, desto mehr Feinde machst du dir.
+Spieler können dich aus einem Viertel verdrängen, wenn sie mehr Figuren dort haben. Es ist ein endloser Tanz zwischen Angriff, Verteidigung und Expansion.
+
+Deine Strategie, dein Imperium
+Jede Runde stellt dich vor neue Herausforderungen: Investierst du in Bestechungskarten, Läufer oder stärkere Lieferanten? 
+Riskierst du es, in einem umkämpften Viertel zu bleiben oder ziehst du dich zurück, um Verluste zu minimieren? 
+Du entscheidest, ob du ein skrupelloser Tyrann bist, der seine Gegner mit Gewalt aus dem Weg räumt oder ein gerissener Stratege,
+der die Polizei geschickt mit Geld fernhält. Deine Entscheidungen formen dein Imperium und bestimmen, ob du als König der Stadt endest oder im Gefängnis landest.
+
+
+Der Kampf um die Unterwelt beginnt
+Du bist bereit. Die Stadt gehört dir – oder wird sie dich verschlingen?
+Mit jedem Zug wächst die Spannung. Jede Runde bringt neue Möglichkeiten und Gefahren. Am Ende kann nur einer die Kontrolle über die Stadt übernehmen.
