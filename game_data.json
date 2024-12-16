@@ -1,0 +1,24 @@
+{
+    "drogen": [
+        {
+            "name": "Kokain"
+        },
+        {
+            "name": "Cannabis"
+        },
+        {
+            "name": "Heroin"
+        },
+        {
+            "name": "Crystal Meth"
+        },
+        {
+            "name": "Ecstacy"
+        }
+    ],
+    "lieferanten": [
+        {
+            "name": "Pablo"
+        }
+    ]
+}
